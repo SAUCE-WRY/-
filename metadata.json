@@ -1,0 +1,6 @@
+{
+  "name": "星辉圣诞 · 手势粒子圣诞树",
+  "description": "基于实时摄像头手势识别的3D流光粒子圣诞树互动体验，支持自定义配色、双手与多人同框惊喜彩蛋、同步节日互动音效与粒子圣诞树从无到有完整展示。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
